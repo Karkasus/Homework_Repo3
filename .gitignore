@@ -16,7 +16,7 @@
 .terraformrc
 terraform.rc
 *.tfvars
-*.tfvars.json
+*.tfvars.json 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
